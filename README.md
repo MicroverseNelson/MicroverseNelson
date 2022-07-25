@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Nelson Ongiti</h1>
 <h3 align="center">A passionate Full-stack developer from Kenya</h3>
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif?cid=ecf05e47c1vw9uulbzyargse5fka5qzd0phablwd97cvrmcl&rid=giphy.gif&ct=g">
+<img align="centre" alt="Coding" width="400" src="https://media2.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif?cid=ecf05e47c1vw9uulbzyargse5fka5qzd0phablwd97cvrmcl&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=microversenelson&label=Profile%20views&color=0e75b6&style=flat" alt="microversenelson" /> </p>
 
